@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PraktikumMobile1</string>
+    <string name="height">tinggi</string>
+    <string name="width">lebar</string>
+    <string name="lenght">Panjang</string>
+    <string name="calculate">hitung</string>
+    <string name="result">hasil</string>
+</resources>
